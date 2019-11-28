@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.9.1)
+  - GSMessages (1.7.2)
+  - Nuke (8.3.1)
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - GSMessages
+  - Nuke (~> 8.0)
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GSMessages
+    - Nuke
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  GSMessages: 05bedc25bd278a1bf4260d6de526de0fc84cfef7
+  Nuke: 85fb80f8df0cb26c28d2f4e0cb7fb93bcd6548d3
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
+
+PODFILE CHECKSUM: ef152235dcd9d0d92eff1a566748fe94236a7e92
+
+COCOAPODS: 1.8.3
