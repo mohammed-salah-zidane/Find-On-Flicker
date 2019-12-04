@@ -30,7 +30,7 @@ class SearchServices{
                 case .success:
                     let decoder = JSONDecoder()
                     do {
-
+                        
                         //decode json with codable protocol
                         let responseModel = try decoder.decode(SearchResultsModel.self, from: response.data!)
                         //safe unwraping photo model with guard
